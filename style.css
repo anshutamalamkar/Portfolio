@@ -1,7 +1,7 @@
 
 
 #home{
-	 background-color:rgb(219, 92, 206);  
+	 background-color:rgb(238, 140, 238); 
 	   
 
 	padding: 250px;
@@ -15,10 +15,10 @@ nav{
 }
 
 #edu{
-	background-color:orchid;
+	background-color:rgb(238, 140, 238);
     padding: 30px;
     box-shadow: 4px 5px 6px 4px black;
-}
+
 
 span{
 	background-color:crimson;
